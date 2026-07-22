@@ -1,5 +1,5 @@
 ---
-name: PPT-design
+name: vis-ppt
 description: 为 PPT 主题生成 5 个艺术视觉风格方向(不是用途/场景分类)
 ---
 
